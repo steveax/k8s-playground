@@ -1,0 +1,11 @@
+groups:
+  - name: controller
+    targets:
+      - faint-careerism.delivery.puppetlabs.net
+  - name: worker-nodes
+    targets:
+      - sprightly-theaf.delivery.puppetlabs.net
+      - lordly-brothel.delivery.puppetlabs.net
+      - optical-decorum.delivery.puppetlabs.net
+      - hasty-quenching.delivery.puppetlabs.net
+      - loud-benefactor.delivery.puppetlabs.net
